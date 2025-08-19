@@ -1,7 +1,7 @@
 <template>
   <div class="header">
     <div class="header-content">
-      <p>LOGO</p>
+      <Logo/>
       <menu>menu</menu>
       <button>Выйти</button>
     </div>
@@ -9,6 +9,7 @@
 </template>
 
 <script setup>
+import Logo from './logo.vue';
 
 </script>
 
