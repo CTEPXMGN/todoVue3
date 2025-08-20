@@ -12,6 +12,8 @@
 .logo {
   display: flex;
   align-items: center;
+  font-weight: 700;
+  font-size: large;
 }
 
 </style>

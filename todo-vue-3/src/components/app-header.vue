@@ -9,6 +9,7 @@
 </template>
 
 <script setup>
+
 import Logo from './logo.vue';
 
 </script>
